@@ -1,0 +1,1389 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP WebinarSystem Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-22 09:59+0530\n"
+"PO-Revision-Date: 2016-01-12 15:35+0100\n"
+"Last-Translator: p_sf6731 <sito.sancho@gmail.com>\n"
+"Language-Team: \n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;"
+"_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;"
+"_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;"
+"esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c;"
+"comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: sv_SE\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/templates/template-metabox-thankyoupage.php:65
+msgid "Link above Text Color"
+msgstr "Textfärg länk ovan"
+
+#: includes/templates/template-metabox-thankyoupage.php:70
+msgid "Link below Text Color"
+msgstr "Textfärg länk nedan "
+
+#: includes/templates/template-metabox-thankyoupage.php:76
+msgid "Ticket"
+msgstr "Biljett"
+
+#: includes/templates/template-metabox-thankyoupage.php:79
+msgid "Border color-1"
+msgstr "Ramfärg-1"
+
+#: includes/templates/template-metabox-thankyoupage.php:85
+msgid "Border color-2"
+msgstr "Ramfärg-2"
+
+#: includes/templates/template-metabox-thankyoupage.php:91
+msgid "Body Text color"
+msgstr "Färg brödtext"
+
+#: includes/templates/template-metabox-thankyoupage.php:97
+msgid "Body Background color"
+msgstr "Bakgrundsfärg brödtextområdet"
+
+#: includes/templates/template-metabox-thankyoupage.php:103
+msgid "Header Background color"
+msgstr "Bakgrundsfärg rubrik"
+
+#: includes/templates/template-metabox-thankyoupage.php:109
+msgid "Header Text color"
+msgstr "Färg rubriktext"
+
+#: includes/templates/template-metabox-thankyoupage.php:115
+msgid "Button color"
+msgstr "Knappfärg"
+
+#: includes/templates/template-metabox-thankyoupage.php:127
+msgid "Social Sharing"
+msgstr "Dela på social media"
+
+#: includes/templates/template-metabox-thankyoupage.php:141
+msgid "Calendar"
+msgstr "Kalender"
+
+#: includes/templates/template-metabox-thankyoupage.php:156
+msgid "Text color"
+msgstr "textfärg"
+
+#: includes/tmp-closed.php:51
+msgid "Unfortunately, this webinar is closed."
+msgstr "Tyvärr så är det här webinariet stängt."
+
+#: includes/tmp-closed.php:54
+msgid "Click here"
+msgstr "Klicka här"
+
+#: includes/tmp-closed.php:54
+msgid "to go to our homepage."
+msgstr "för att komma till våran hemsida"
+
+#: includes/tmp-countdown.php:60
+msgid "will begin in"
+msgstr "kommer att starta om"
+
+#: includes/tmp-countdown.php:61
+msgid "will begin shortly"
+msgstr "startar inom kort"
+
+#: includes/tmp-countdown.php:66
+msgid "will start"
+msgstr "kommer att starta"
+
+#: includes/tmp-countdown.php:67
+msgid "on"
+msgstr "på"
+
+#: includes/tmp-countdown.php:68
+msgid "at"
+msgstr "den"
+
+#: includes/tmp-countdown.php:72
+msgid "Please come back at this time. Thank you for your patience"
+msgstr "Var snäll att komma tillbaka vid denna tidpunkt. Tack för ditt tålamod."
+
+#: includes/tmp-countdown.php:83
+msgid ""
+"Just a second, we are starting the broadcast. This page will refresh "
+"automatically..."
+msgstr ""
+"Ett ögonblick, vi håller på att starta en sändning.  Sidan uppdateras automatisk."
+
+#: includes/tmp-live.php:84
+msgid "Presentator"
+msgid_plural "Presentators"
+msgstr[0] "Presentatör"
+msgstr[1] ""
+
+#: includes/tmp-live.php:92
+msgid "Information"
+msgstr "Information"
+
+#: includes/tmp-live.php:104
+msgid "Ask your question!"
+msgstr "Ställ din fråga!"
+
+#: includes/tmp-live.php:108
+msgid "Your name"
+msgstr "Ditt namn"
+
+#: includes/tmp-live.php:111
+msgid "Your email"
+msgstr "Din e-post"
+
+#: includes/tmp-live.php:114
+msgid "Type your question here.."
+msgstr "Skriv din fråga här.."
+
+#: includes/tmp-live.php:116
+msgid "Ask Question!"
+msgstr "Ställ fråga!"
+
+#: includes/tmp-live.php:120
+msgid "My Questions"
+msgstr "Mina frågor"
+
+#: includes/tmp-live.php:148
+msgid ""
+"Something is wrong with your Add Questions form. Please re-check all fields are "
+"filled correctly"
+msgstr ""
+"Det är någto som inte står rätt till med ditt frågeformulär. Var god kontrollera "
+"så att alla fält är ifyllda på ett korrekt sätt."
+
+#: includes/tmp-live.php:156
+msgid "Please wait.."
+msgstr "Var god vänta.."
+
+# Här
+#: includes/tmp-post.php:145
+msgid "Here is the webinar URL..."
+msgstr "Här är URL:et för webinariet..."
+
+#: includes/tmp-post.php:151
+msgid "Save and bookmark this URL so you can get access the live webinar replay..."
+msgstr ""
+"Spara och bokmärk denna URL så att du kan ha tillgång till återuppspelningen av "
+"webinariet..."
+
+#: includes/tmp-post.php:161
+msgid "Your Webinar Ticket"
+msgstr "Din webinariebiljett"
+
+#: includes/tmp-post.php:162
+msgid "The Webinar Event Information..."
+msgstr "Information kring webinarieevenemanget..."
+
+#: includes/tmp-post.php:171 includes/tmp-registration.php:108
+msgid "Host"
+msgid_plural "Hosts"
+msgstr[0] "Värd"
+msgstr[1] ""
+
+#: includes/tmp-post.php:187
+msgid "Webinar Is In Progress..."
+msgstr "Webinariet pågår..."
+
+#: includes/tmp-post.php:193
+msgid "View Webinar Replay"
+msgstr "Se återuppspelningen av webinariet"
+
+#: includes/tmp-post.php:220
+msgid "Add To Your Calendar"
+msgstr "Lägg till din kalender"
+
+#: includes/tmp-post.php:221
+msgid "Remind Yourself Of The Event"
+msgstr "Påminn dig själv om evenemanget"
+
+#: includes/tmp-post.php:225
+msgid "Google Calendar"
+msgstr "Google kalender"
+
+#: includes/tmp-post.php:227
+msgid "iCal / Outlook"
+msgstr "iCal/Outlook"
+
+#: includes/tmp-registration.php:2
+msgid "No script kiddies please!"
+msgstr "Inga Script Kiddies tack!"
+
+#: includes/tmp-registration.php:144
+msgid "Your Name"
+msgstr "Ditt namn"
+
+#: includes/tmp-registration.php:148
+msgid "Your Email Address"
+msgstr "Din e-postadress"
+
+#: includes/tmp-registration.php:150
+msgid "Please enter your email."
+msgstr "Var god ange din e-post."
+
+#: includes/tmp-registration.php:167
+msgid "Select a day to watch."
+msgstr "Välj en dag som du vill se det på"
+
+#: includes/tmp-registration.php:180
+msgid "Select a time to watch."
+msgstr "Välj en tid som du vill se det på"
+
+#: includes/tmp-registration.php:187
+msgid "And, Sign-in"
+msgstr "Och, logga in"
+
+#: includes/tmp-registration.php:190
+msgid "Of course we will handle your data safely."
+msgstr "Självklart så är dina uppgifter säkra med oss."
+
+#: includes/class-webinarsysteemoptions.php:571
+msgid "WP Version"
+msgstr "WP-version"
+
+#: includes/class-webinarsysteemoptions.php:578
+msgid "WP Multisite"
+msgstr "WP multisite"
+
+#: includes/class-webinarsysteemoptions.php:588
+msgid "WP Debug mode"
+msgstr "WP debug-läge"
+
+#: includes/class-webinarsysteemoptions.php:597
+msgid "Language"
+msgstr "Språk"
+
+#: includes/class-webinarsysteemoptions.php:605
+msgid "Server Environment"
+msgstr "Servermiljö"
+
+#: includes/class-webinarsysteemoptions.php:609
+msgid "Server Info"
+msgstr "Serverinfo"
+
+#: includes/class-webinarsysteemoptions.php:617
+msgid "PHP Version"
+msgstr "PHP-version"
+
+#: includes/class-webinarsysteemoptions.php:626
+msgid "Couldn't determine PHP version because phpversion() doesn't exist."
+msgstr ""
+"Kunde inte fastställa PHP-version på grund av att phpversion() inte existerar."
+
+#: includes/class-webinarsysteemoptions.php:634
+msgid "PHP Post Max Size"
+msgstr "PHP Post maxgräns"
+
+#: includes/class-webinarsysteemoptions.php:642
+msgid "PHP Time Limit"
+msgstr "PHP tidsgräns"
+
+#: includes/class-webinarsysteemoptions.php:650
+msgid "PHP Max Input Vars"
+msgstr "PHP Max Input Vars"
+
+#: includes/class-webinarsysteemoptions.php:658
+msgid "SUHOSIN Installed"
+msgstr "SUHOSIN installerad"
+
+#: includes/class-webinarsysteemoptions.php:666
+msgid "MySQL Version"
+msgstr "MySQL-version"
+
+#: includes/class-webinarsysteemoptions.php:677
+msgid "Max Upload Size"
+msgstr "Max uppladdningsstorlek"
+
+#: includes/class-webinarsysteemoptions.php:685
+msgid "Default Timezone"
+msgstr "Standard tidszon"
+
+#: includes/class-webinarsysteemoptions.php:746
+msgid "Server Locale"
+msgstr "Server Locale"
+
+#: includes/class-webinarsysteemoptions.php:753
+msgid "N/A"
+msgstr "N/A (ej tillämpligt)"
+
+#: includes/class-webinarsysteemoptions.php:762
+msgid "Active Plugins("
+msgstr "Akitva plugins("
+
+#: includes/class-webinarsysteemoptions.php:780
+msgid "by "
+msgstr "Av"
+
+#: includes/class-webinarsysteemoptions.php:790
+msgid "Theme"
+msgstr "Tema"
+
+#: includes/class-webinarsysteemoptions.php:798
+msgid "Version"
+msgstr "Version"
+
+#: includes/class-webinarsysteemoptions.php:802
+msgid "Author URL"
+msgstr "Författare URL"
+
+#: includes/templates/template-email-admin-email.php:7
+msgid "Howdy"
+msgstr "Halloj"
+
+#: includes/templates/template-email-admin-email.php:8
+msgid "just signed up for your webinar"
+msgstr "registrerade sig precis till ditt webinarium"
+
+#: includes/templates/template-email-attendee-replay.php:19
+#: includes/templates/template-email-attendee-wbstarted.php:19
+#: includes/templates/template-email-attendee1hr.php:27
+#: includes/templates/template-email-attendee24hr.php:26
+#: includes/templates/template-email-reader.php:23 includes/tmp-post.php:190
+msgid "Go to Webinar"
+msgstr "Gå till webinariet"
+
+#: includes/templates/template-email-reader.php:19
+msgid ""
+"Thank you for your registration for the webinar. Below you will find the details "
+"of the webinar."
+msgstr ""
+"Tack för att du registrerat dig till webinariet. Nedan finns all nödvändig "
+"information angående webinariet."
+
+#: includes/templates/template-metabox-countdownpage.php:8
+#: includes/templates/template-metabox-livepage.php:7
+#: includes/templates/template-metabox-replaypage.php:7
+#: includes/templates/template-metabox-thankyoupage.php:14
+msgid "Title color"
+msgstr "Färg rubriktext"
+
+#: includes/templates/template-metabox-countdownpage.php:20
+#: includes/templates/template-metabox-livepage.php:19
+#: includes/templates/template-metabox-replaypage.php:19
+#: includes/templates/template-metabox-thankyoupage.php:26
+msgid "Background image"
+msgstr "Bakgrundsbild"
+
+#: includes/templates/template-metabox-countdownpage.php:22
+msgid "Countdown Page Background Image"
+msgstr "Bakgrundsbild på nedräkningssidan"
+
+#: includes/templates/template-metabox-countdownpage.php:22
+#: includes/templates/template-metabox-livepage.php:21
+#: includes/templates/template-metabox-livepage.php:42
+#: includes/templates/template-metabox-registerpage.php:15
+#: includes/templates/template-metabox-registerpage.php:32
+#: includes/templates/template-metabox-replaypage.php:21
+#: includes/templates/template-metabox-replaypage.php:48
+#: includes/templates/template-metabox-thankyoupage.php:28
+#: includes/templates/template-metabox-thankyoupage.php:46
+msgid "Upload Image"
+msgstr "Ladda upp bild"
+
+#: includes/templates/template-metabox-countdownpage.php:27
+msgid "Show countdown timer"
+msgstr "Visa nedräkningsklocka"
+
+#: includes/templates/template-metabox-countdownpage.php:33
+msgid "Tagline color"
+msgstr "Färg tagline"
+
+#: includes/templates/template-metabox-countdownpage.php:39
+msgid "Description color"
+msgstr "Färg rubrikens bakgrund"
+
+#: includes/templates/template-metabox-generalpage.php:14
+msgid "Webinar Type"
+msgstr "Webinariets typ"
+
+#: includes/templates/template-metabox-generalpage.php:22
+msgid "Webinar Occurance"
+msgstr "Webinariets förekomst"
+
+#: includes/templates/template-metabox-generalpage.php:32
+msgid "One time registration"
+msgstr "Engångsregistrering"
+
+#: includes/templates/template-metabox-generalpage.php:40
+msgid "Recurring on every"
+msgstr "Återkommer varje"
+
+#: includes/templates/template-metabox-generalpage.php:83
+msgid "Recurring Time(s)"
+msgstr "Återkommande tid(er)"
+
+#: includes/templates/template-metabox-generalpage.php:105
+msgid "Webinar starts at"
+msgstr "Webinariet startar klockan"
+
+#: includes/templates/template-metabox-generalpage.php:106
+#: includes/tmp-post.php:172 includes/tmp-registration.php:104
+msgid "Date"
+msgstr "Datum"
+
+#: includes/templates/template-metabox-generalpage.php:155
+msgid "Disable registration"
+msgstr "Avaktivera registrering"
+
+#: includes/templates/template-metabox-livepage.php:21
+#: includes/templates/template-metabox-thankyoupage.php:28
+msgid "Thankyou Page Background Image"
+msgstr "Bakgrundsbild på tacksidan"
+
+#: includes/templates/template-metabox-livepage.php:29
+#: includes/templates/template-metabox-replaypage.php:35
+msgid "Webinar type"
+msgstr "Webinariets typ"
+
+#: includes/templates/template-metabox-livepage.php:34
+#: includes/templates/template-metabox-registerpage.php:25
+#: includes/templates/template-metabox-replaypage.php:40
+#: includes/templates/template-metabox-thankyoupage.php:38
+msgid "Image"
+msgstr "Bild"
+
+#: includes/templates/template-metabox-livepage.php:39
+#: includes/templates/template-metabox-registerpage.php:30
+#: includes/templates/template-metabox-replaypage.php:45
+#: includes/templates/template-metabox-thankyoupage.php:43
+msgid "Video or Image URL"
+msgstr "Videons eller bildens URL"
+
+#: includes/templates/template-metabox-livepage.php:42
+#: includes/templates/template-metabox-registerpage.php:32
+#: includes/templates/template-metabox-replaypage.php:48
+msgid "Registration Page Video Image"
+msgstr "Registreringssidans video bild"
+
+#: includes/templates/template-metabox-livepage.php:44
+#: includes/templates/template-metabox-replaypage.php:52
+#: includes/templates/template-metabox-thankyoupage.php:48
+msgid "Youtube Video URL (Eg: https://www.youtube.com/watch?v=3TkgTEfx9XM)"
+msgstr ""
+"URL-adress för Youtube video (t.ex.: https://www.youtube.com/watch?v=3TkgTEfx9XM)"
+
+#: includes/templates/template-metabox-livepage.php:45
+#: includes/templates/template-metabox-replaypage.php:53
+#: includes/templates/template-metabox-thankyoupage.php:49
+msgid "Image URL (Eg: https://example.com/images/the_image.jpg)"
+msgstr "URL-adress för bilden (t.ex.: https://www.youtube.com/watch?v=3TkgTEfx9XM)"
+
+#: includes/templates/template-metabox-livepage.php:50
+#: includes/templates/template-metabox-registerpage.php:39
+#: includes/templates/template-metabox-replaypage.php:58
+#: includes/templates/template-metabox-thankyoupage.php:54
+msgid "Video autoplay"
+msgstr "Automatisk uppspelning av video"
+
+#: includes/templates/template-metabox-livepage.php:67
+#: includes/templates/template-metabox-livepage.php:146
+#: includes/templates/template-metabox-livepage.php:169
+#: includes/templates/template-metabox-registerpage.php:69
+#: includes/templates/template-metabox-thankyoupage.php:130
+#: includes/templates/template-metabox-thankyoupage.php:144
+msgid "Border color"
+msgstr "Färg på ram"
+
+#: includes/templates/template-metabox-livepage.php:194
+msgid "Title Background color"
+msgstr "Färg rubrikens bakgrund"
+
+#: includes/templates/template-metabox-registerpage.php:7
+msgid "Page Background color"
+msgstr "Färg sidans bakgrund"
+
+#: includes/templates/template-metabox-registerpage.php:13
+msgid "Page Background image"
+msgstr "Sidans bakgrundsbild"
+
+#: includes/templates/template-metabox-registerpage.php:15
+msgid "Registration Page Background Image"
+msgstr "Registreringssidans bakgrundsbild"
+
+#: includes/templates/template-metabox-registerpage.php:20
+#: includes/templates/template-metabox-thankyoupage.php:33
+msgid "Content type"
+msgstr "Typ av innehåll"
+
+#: includes/templates/template-metabox-registerpage.php:34
+msgid "Provide an image url or a Youtube Video ID"
+msgstr "Förse en bilds URL-adress eller en Youtubevideos ID"
+
+#: includes/templates/template-metabox-registerpage.php:50
+msgid "Title Color"
+msgstr "Färg Rubrik"
+
+#: includes/templates/template-metabox-registerpage.php:55
+msgid "Date/Time Color"
+msgstr "Datum/TId Färg"
+
+#: includes/templates/template-metabox-registerpage.php:61
+msgid "Registration Form"
+msgstr "Registreringsformulär"
+
+#: includes/templates/template-metabox-registerpage.php:75
+msgid "Font color"
+msgstr "Typsnittsfärg"
+
+#: includes/templates/template-metabox-registerpage.php:81
+msgid "Title"
+msgstr "Rubrik"
+
+#: includes/templates/template-metabox-registerpage.php:87
+msgid "Text"
+msgstr "Text"
+
+#: includes/templates/template-metabox-registerpage.php:93
+#: includes/templates/template-metabox-thankyoupage.php:167
+msgid "Button Background color"
+msgstr "Bakgrundsfärg knapp"
+
+#: includes/templates/template-metabox-registerpage.php:99
+#: includes/templates/template-metabox-thankyoupage.php:173
+msgid "Button Border color"
+msgstr "Ramfärg knapp"
+
+#: includes/templates/template-metabox-registerpage.php:105
+#: includes/templates/template-metabox-thankyoupage.php:121
+#: includes/templates/template-metabox-thankyoupage.php:161
+msgid "Button Text color"
+msgstr "Färg knapptext"
+
+#: includes/templates/template-metabox-registerpage.php:111
+msgid "CTA Button Text"
+msgstr "Färg Call-to-Action-knapptext"
+
+#: includes/templates/template-metabox-registerpage.php:118
+msgid "Description"
+msgstr "Beskrivning"
+
+#: includes/templates/template-metabox-registerpage.php:121
+msgid "Description text color"
+msgstr "Färg beskrivningstext"
+
+#: includes/templates/template-metabox-registerpage.php:126
+msgid "Description background color"
+msgstr "Bakgrundsfärg beskrivningastext"
+
+#: includes/templates/template-metabox-registerpage.php:131
+msgid "Description border color"
+msgstr "Färg på beskrivningstextens ram"
+
+#: includes/templates/template-metabox-replaypage.php:21
+msgid "Replay Page Background Image"
+msgstr "Bakgrundsbild på återuppspelningssidan"
+
+#: includes/templates/template-metabox-replaypage.php:28
+msgid "Replay available?"
+msgstr "Återuppspelning tillgänglig?"
+
+#: includes/templates/template-metabox-thankyoupage.php:7
+msgid "Title text"
+msgstr "Rubriktext"
+
+#: includes/templates/template-metabox-thankyoupage.php:9
+msgid "Yeah! You Are Registered For The Webinar!"
+msgstr "Va bra! Du är registrerad till webinariet!"
+
+#: includes/templates/template-metabox-thankyoupage.php:46
+msgid "Thanking Page Video Image"
+msgstr "Tacksidans videobild"
+
+#: includes/class-webinarsysteem-questions.php:26
+msgid "WP WebinarSystem Questions"
+msgstr "WP WebinarSystem Frågor\n"
+
+#: includes/class-webinarsysteem-questions.php:27
+msgid "Select webinar to view questions for active webinars"
+msgstr "Välj webinar för att kunna se frågor i aktiva webinarier"
+
+#: includes/class-webinarsysteem-questions.php:50
+#: includes/class-webinarsysteemattendees.php:60
+#: includes/class-webinarsysteemattendees.php:98
+#: includes/class-webinarsysteemoptions.php:794
+msgid "Name"
+msgstr "Namn"
+
+#: includes/class-webinarsysteem-questions.php:50
+msgid "Question"
+msgstr "Fråga"
+
+#: includes/class-webinarsysteem-questions.php:50 includes/tmp-post.php:173
+#: includes/tmp-registration.php:105
+msgid "Time"
+msgstr "Tid"
+
+#: includes/class-webinarsysteem.php:318
+msgid "WP WebinarSystem"
+msgstr "WP WebinarSystem"
+
+#: includes/class-webinarsysteem.php:318
+msgid "WebinarSystem"
+msgstr "WebinarSystem"
+
+#: includes/class-webinarsysteem.php:319 includes/class-webinarsysteem.php:442
+msgid "Webinars"
+msgstr "Webinarier"
+
+#: includes/class-webinarsysteem.php:321
+msgid "New webinar"
+msgstr "Nytt webinarium"
+
+#: includes/class-webinarsysteem.php:322
+msgid "Attendee Lists"
+msgstr "Deltagarlista"
+
+#: includes/class-webinarsysteem.php:323
+msgid "Webinar Questions"
+msgstr "Webinariefrågor"
+
+#: includes/class-webinarsysteem.php:325
+msgid "Settings"
+msgstr "Inställningar"
+
+#: includes/class-webinarsysteem.php:361 includes/class-webinarsysteem.php:387
+msgid "Questions"
+msgstr "Frågor"
+
+#: includes/class-webinarsysteem.php:366
+msgid "Duplicate this Webinar"
+msgstr "Duplicera detta Webinarium"
+
+#: includes/class-webinarsysteem.php:366
+msgid "Duplicate"
+msgstr "Duplicera"
+
+#: includes/class-webinarsysteem.php:385
+msgid "Views"
+msgstr "Visningar"
+
+#: includes/class-webinarsysteem.php:386
+msgid "Registrations"
+msgstr "Registreringar"
+
+#: includes/class-webinarsysteem.php:388
+msgid "Status"
+msgstr "Status"
+
+#: includes/class-webinarsysteem.php:443 includes/class-webinarsysteem.php:444
+#: includes/tmp-post.php:170
+msgid "Webinar"
+msgstr "Webinarium"
+
+#: includes/class-webinarsysteem.php:445 includes/class-webinarsysteem.php:446
+msgid "Add New Webinar"
+msgstr "Lägg till nytt webinarium"
+
+#: includes/class-webinarsysteem.php:447
+msgid "New Webinar"
+msgstr "Nytt webinarium"
+
+#: includes/class-webinarsysteem.php:448
+msgid "Edit Webinar"
+msgstr "Redigera webinarium"
+
+#: includes/class-webinarsysteem.php:449
+msgid "View Webinar"
+msgstr "Se på webinariet"
+
+#: includes/class-webinarsysteem.php:737
+msgid ""
+"Your license for WebinarSysteem is seems to be Invalid. Please contact support "
+"desk!"
+msgstr ""
+"Din license för WebinarSystem verkar vara ogiltig. Var god kontakta supporten!"
+
+#: includes/class-webinarsysteem.php:740
+msgid "Your WebinarSysteem license key has suspended! Please contact the support."
+msgstr ""
+"Din produktnyckel för WebinarSystem har suspenderats. Var god kontakta supporten!"
+
+#: includes/class-webinarsysteem.php:743
+msgid ""
+"Your WebinarSysteem license key has expired! Please renew it again before using "
+"the plugin."
+msgstr ""
+"Din produktnyckel för WebinarSystem har gått ut. Var god att förnya den för att "
+"kunna använda detta plugin."
+
+#: includes/class-webinarsysteem.php:746
+msgid "Please enter your license key to activate WebinarSysteem plugin!"
+msgstr ""
+"Var god matta in din produktnyckel för att aktivera WebinarSystem plugin.\n"
+
+#: includes/class-webinarsysteem.php:1103 includes/class-webinarsysteem.php:1105
+#: includes/class-webinarsysteem.php:1109
+#: includes/templates/template-email-attendee-replay.php:17
+#: includes/templates/template-email-attendee1hr.php:21
+#: includes/templates/template-email-attendee24hr.php:21
+#: includes/templates/template-email-reader.php:18
+msgid "Hi"
+msgstr "Hej"
+
+#: includes/class-webinarsysteem.php:1103 includes/class-webinarsysteem.php:1107
+#: includes/templates/template-email-attendee1hr.php:23
+msgid ""
+"The webinar you signed up for starts in one hour. Below you will find the link "
+"to attend the webinar."
+msgstr ""
+"Webinariet som du skrivit in dig till startar om en timme. Nedan finns länken "
+"till webinariet."
+
+#: includes/class-webinarsysteem.php:1103 includes/class-webinarsysteem.php:1105
+#: includes/templates/template-email-attendee1hr.php:24
+#: includes/templates/template-email-attendee24hr.php:23
+#: includes/templates/template-email-reader.php:20
+msgid "Webinar name:"
+msgstr "Webinarienamn"
+
+#: includes/class-webinarsysteem.php:1103 includes/class-webinarsysteem.php:1105
+#: includes/templates/template-email-attendee1hr.php:25
+#: includes/templates/template-email-attendee24hr.php:24
+#: includes/templates/template-email-reader.php:21
+msgid "Date:"
+msgstr "Datum:"
+
+#: includes/class-webinarsysteem.php:1103 includes/class-webinarsysteem.php:1105
+#: includes/templates/template-email-attendee1hr.php:26
+#: includes/templates/template-email-attendee24hr.php:25
+#: includes/templates/template-email-reader.php:22
+msgid "Time:"
+msgstr "Tid:"
+
+#: includes/class-webinarsysteem.php:1103 includes/class-webinarsysteem.php:1105
+#: includes/templates/template-email-attendee1hr.php:28
+#: includes/templates/template-email-attendee24hr.php:27
+#: includes/templates/template-email-reader.php:24
+msgid "See you then!"
+msgstr "Vi ses där!"
+
+#: includes/class-webinarsysteem.php:1103 includes/class-webinarsysteem.php:1105
+#: includes/class-webinarsysteem.php:1107 includes/class-webinarsysteem.php:1109
+#: includes/templates/template-email-admin-email.php:9
+#: includes/templates/template-email-attendee-replay.php:21
+#: includes/templates/template-email-attendee-wbstarted.php:21
+#: includes/templates/template-email-attendee1hr.php:29
+#: includes/templates/template-email-attendee24hr.php:28
+#: includes/templates/template-email-reader.php:25
+msgid "Regards"
+msgstr "Med vänliga hälsningar"
+
+#: includes/class-webinarsysteem.php:1105
+#: includes/templates/template-email-attendee24hr.php:22
+msgid ""
+"This is a reminder for your upcoming webinar tomorrow. Below you will find the "
+"details of the webinar."
+msgstr ""
+"Det här är en påminnelse för ditt webinarium imorgon. Nedan har du all "
+"information kring webinariet."
+
+#: includes/class-webinarsysteem.php:1107
+#: includes/templates/template-email-attendee-wbstarted.php:16
+msgid "We are going live now"
+msgstr "Vi går live nu!"
+
+#: includes/class-webinarsysteem.php:1107 includes/class-webinarsysteem.php:1109
+#: includes/templates/template-email-attendee-replay.php:20
+#: includes/templates/template-email-attendee-wbstarted.php:20
+msgid "See you later!"
+msgstr "Vi ses snart!"
+
+#: includes/class-webinarsysteem.php:1109
+#: includes/templates/template-email-attendee-replay.php:18
+#: includes/templates/template-email-attendee-wbstarted.php:18
+msgid "Make sure to join the webinar via this link:"
+msgstr "Försäkra dig om att ansluta dig till webinariet via denna länk:"
+
+#: includes/class-webinarsysteem.php:1139
+#, php-format
+msgid ""
+"Invalid MailChimp API key. To fix, please visit <a href=\"%s\">WebinarSysteem "
+"Settings</a>."
+msgstr ""
+"Ogiltig MailChimp API-nyckel. För att ordna detta, gå in på inställningar på "
+"WebinarSystems."
+
+#: includes/class-webinarsysteem.php:1150
+#, php-format
+msgid ""
+"Invalid Enormail API key. To fix, please visit <a href=\"%s\">WebinarSysteem "
+"Settings</a>."
+msgstr ""
+"Ogiltig Enormail API-nyckel. För att ordna detta, gå in på inställningar på "
+"WebinarSystems."
+
+#: includes/class-webinarsysteem.php:1162
+msgid "Invalid api key!"
+msgstr "Ogiltig API-nyckel"
+
+#: includes/class-webinarsysteemattendees.php:12
+msgid "WP WebinarSystem Attendees"
+msgstr "Deltagare på WP WebinarSystems"
+
+#: includes/class-webinarsysteemattendees.php:13
+msgid "Select webinar to view attendees for active webinars"
+msgstr "Välj webinarium för att se deltagare i aktiva webinarium"
+
+#: includes/class-webinarsysteemattendees.php:38
+msgid "Please add webinars to listup."
+msgstr "Var god lägg till webinarier till listup."
+
+#: includes/class-webinarsysteemattendees.php:61
+#: includes/class-webinarsysteemattendees.php:99
+msgid "E-Mail"
+msgstr "E-post"
+
+#: includes/class-webinarsysteemattendees.php:62
+#: includes/class-webinarsysteemattendees.php:100
+msgid "Registered Date"
+msgstr "Registrerat datum"
+
+#: includes/class-webinarsysteemattendees.php:63
+#: includes/class-webinarsysteemattendees.php:101
+msgid "Edit"
+msgstr "Redigera"
+
+#: includes/class-webinarsysteemattendees.php:82
+#: includes/templates/template-metabox-generalpage.php:91
+#: includes/templates/template-metabox-generalpage.php:195
+msgid "Remove"
+msgstr "Ta bort"
+
+#: includes/class-webinarsysteemattendees.php:92
+msgid "No Attendees :("
+msgstr "Inga deltagare :("
+
+#: includes/class-webinarsysteemmessages.php:63
+#: includes/class-webinarsysteemmessages.php:69
+#: includes/class-webinarsysteemoptions.php:78
+msgid "New Registration"
+msgstr "Ny registrering"
+
+#: includes/class-webinarsysteemmessages.php:77
+#: includes/class-webinarsysteemmessages.php:110
+msgid "Reminder"
+msgstr "Påminnelse"
+
+#: includes/class-webinarsysteemmessages.php:84
+msgid "You are registered for the webinar!"
+msgstr "Du har registrerat dig till webineriet!"
+
+#: includes/class-webinarsysteemmessages.php:147
+msgid "We are live in one hour!"
+msgstr "Vi går live om en timme!"
+
+#: includes/class-webinarsysteemmessages.php:180
+msgid "We are starting the webinar!"
+msgstr "Nu startar vi webinariet!"
+
+#: includes/class-webinarsysteemmessages.php:213
+msgid "Webinar Replay Link"
+msgstr "Länk för återuppspelning av webinariet"
+
+#: includes/class-webinarsysteemmessages.php:305
+msgid "Once a minute"
+msgstr "En gång per minut"
+
+#: includes/class-webinarsysteemmessages.php:327
+msgid "hrs"
+msgstr "Tim"
+
+#: includes/class-webinarsysteemmetabox.php:24
+msgid "Webinar Settings"
+msgstr "Webinarieinställningar"
+
+#: includes/class-webinarsysteemmetabox.php:28
+msgid "Host Names"
+msgstr "Värdnamn"
+
+#: includes/class-webinarsysteemmetabox.php:29
+msgid "Your Webinar URL"
+msgstr "Ditt URL för webinariet"
+
+#: includes/class-webinarsysteemmetabox.php:87
+#: includes/class-webinarsysteemoptions.php:48
+msgid "General Options"
+msgstr "Generella inställningar"
+
+#: includes/class-webinarsysteemmetabox.php:88
+msgid "Registration Page"
+msgstr "Registreringssidan"
+
+#: includes/class-webinarsysteemmetabox.php:89
+msgid "Thank You Page"
+msgstr "Tacksidan"
+
+#: includes/class-webinarsysteemmetabox.php:90
+msgid "Countdown Page"
+msgstr "Nedräkningssidan"
+
+#: includes/class-webinarsysteemmetabox.php:91
+msgid "Live Page"
+msgstr "Livesidan"
+
+#: includes/class-webinarsysteemmetabox.php:92
+msgid "Replay Page"
+msgstr "Återuppseplningssidan"
+
+#: includes/class-webinarsysteemmetabox.php:93
+msgid "Mailinglist"
+msgstr "Mailinglista"
+
+#: includes/class-webinarsysteemmetabox.php:94
+msgid "Import / Export"
+msgstr "Importera / Exportera"
+
+#: includes/class-webinarsysteemmetabox.php:195
+msgid "Default mail provider"
+msgstr "Mailleverantör "
+
+#: includes/class-webinarsysteemmetabox.php:206
+msgid "Mailchimp list"
+msgstr "Mailchimp-lista"
+
+#: includes/class-webinarsysteemmetabox.php:224
+msgid "You've no mailing list(s) on MailChimp."
+msgstr "Du har inga mailinglistor på MailChimp"
+
+#: includes/class-webinarsysteemmetabox.php:244
+msgid "Mailpoet list"
+msgstr "Mailpoet-lista"
+
+#: includes/class-webinarsysteemmetabox.php:246
+#: includes/class-webinarsysteemmetabox.php:272
+msgid "Select a list.."
+msgstr "Välj en lista..."
+
+#: includes/class-webinarsysteemmetabox.php:262
+msgid "Enormail list"
+msgstr "Enormail-lista"
+
+#: includes/class-webinarsysteemmetabox.php:280
+msgid "You've no mailing list(s) on Enormail."
+msgstr "Du har inga mailinglistor på Enormail"
+
+#: includes/class-webinarsysteemmetabox.php:352
+msgid ""
+"Click Export to download backup of current webinar settings. Upload your already "
+"exported file to Import section to apply settings from other webinar."
+msgstr ""
+"Klicka på \"exportera\" för att ladda ner säkerhetskopia av nuvarande "
+"webinarieinställningar. Ladda upp en tidigare exporterad fil till "
+"importsektionen för att tillämpa inställningar från ett annat webinarium."
+
+#: includes/class-webinarsysteemmetabox.php:357
+msgid "Export"
+msgstr "Exportera"
+
+#: includes/class-webinarsysteemmetabox.php:362
+msgid "Import"
+msgstr "Importera"
+
+#: includes/class-webinarsysteemmetabox.php:584
+msgid "Webinar will be presented by:"
+msgstr "Webinariet kommer att presenteras av:"
+
+#: includes/class-webinarsysteemmetabox.php:586
+msgid "Separate each by commas"
+msgstr "Separera varje med kommatecken"
+
+#: includes/class-webinarsysteemmetabox.php:601
+#: includes/templates/template-metabox-livepage.php:58
+msgid "Host & Description Box"
+msgstr "Värd- och beskrvningsdíalogruta"
+
+#: includes/class-webinarsysteemmetabox.php:605
+#: includes/class-webinarsysteemmetabox.php:678
+#: includes/class-webinarsysteemmetabox.php:695
+#: includes/class-webinarsysteemoptions.php:127
+#: includes/templates/template-metabox-countdownpage.php:14
+#: includes/templates/template-metabox-livepage.php:13
+#: includes/templates/template-metabox-livepage.php:62
+#: includes/templates/template-metabox-livepage.php:140
+#: includes/templates/template-metabox-livepage.php:163
+#: includes/templates/template-metabox-registerpage.php:64
+#: includes/templates/template-metabox-replaypage.php:13
+#: includes/templates/template-metabox-thankyoupage.php:20
+#: includes/templates/template-metabox-thankyoupage.php:135
+#: includes/templates/template-metabox-thankyoupage.php:150
+msgid "Background color"
+msgstr "Bakgrundsfärg"
+
+#: includes/class-webinarsysteemmetabox.php:613
+#: includes/templates/template-metabox-livepage.php:75
+#: includes/templates/template-metabox-replaypage.php:84
+msgid "Show Host Box"
+msgstr "Visa värddialogruta"
+
+#: includes/class-webinarsysteemmetabox.php:620
+#: includes/templates/template-metabox-livepage.php:82
+msgid "Host Title Background color"
+msgstr "Bakgrundsfärg Värdrubrik"
+
+#: includes/class-webinarsysteemmetabox.php:626
+#: includes/templates/template-metabox-livepage.php:88
+msgid "Host Title Text color"
+msgstr "Textfärg Värdrubrik"
+
+#: includes/class-webinarsysteemmetabox.php:632
+#: includes/templates/template-metabox-livepage.php:94
+msgid "Host Text color"
+msgstr "Textfärg Värd"
+
+#: includes/class-webinarsysteemmetabox.php:640
+#: includes/templates/template-metabox-livepage.php:102
+#: includes/templates/template-metabox-replaypage.php:77
+msgid "Show Description Box"
+msgstr "Visa beskrivningsdialogruta"
+
+#: includes/class-webinarsysteemmetabox.php:647
+#: includes/templates/template-metabox-livepage.php:109
+msgid "Description Title Background color"
+msgstr "Beskrivning Bakgrundsfärg "
+
+#: includes/class-webinarsysteemmetabox.php:653
+#: includes/templates/template-metabox-livepage.php:115
+msgid "Description Title Text color"
+msgstr "Beskrivning Rubrikens textfärg"
+
+#: includes/class-webinarsysteemmetabox.php:659
+#: includes/templates/template-metabox-livepage.php:121
+msgid "Description Text color"
+msgstr "Beskrivning textfärg"
+
+#: includes/class-webinarsysteemmetabox.php:667
+#: includes/templates/template-metabox-livepage.php:129
+msgid "Question Box"
+msgstr "Frågeruta"
+
+#: includes/class-webinarsysteemmetabox.php:671
+#: includes/templates/template-metabox-livepage.php:133
+#: includes/templates/template-metabox-replaypage.php:70
+msgid "Show Question box"
+msgstr "Visa frågeruta"
+
+#: includes/class-webinarsysteemmetabox.php:684
+#: includes/class-webinarsysteemmetabox.php:714
+#: includes/templates/template-metabox-livepage.php:152
+#: includes/templates/template-metabox-livepage.php:188
+msgid "Title Text color"
+msgstr "Textfärg rubrik"
+
+#: includes/class-webinarsysteemmetabox.php:691
+#: includes/templates/template-metabox-livepage.php:159
+msgid "Incentive Box"
+msgstr "Incitamentsruta"
+
+#: includes/class-webinarsysteemmetabox.php:701
+#: includes/templates/template-metabox-livepage.php:175
+#: includes/templates/template-metabox-replaypage.php:91
+msgid "Show Incentive Box"
+msgstr "Visa incitamentsruta"
+
+#: includes/class-webinarsysteemmetabox.php:708
+#: includes/templates/template-metabox-livepage.php:182
+msgid "Incentive Title"
+msgstr "Incitamentsrubrik"
+
+#: includes/class-webinarsysteemmetabox.php:720
+#: includes/templates/template-metabox-livepage.php:200
+msgid "Incentive box content"
+msgstr "Innehåll incitamentsruta"
+
+#: includes/class-webinarsysteemmetabox.php:734
+msgid "Preview Page"
+msgstr "Förhandsvisa sida"
+
+#: includes/class-webinarsysteemmetabox.php:735
+msgid "Only use this generated link for test purposes"
+msgstr "Använd denna länk endast för teständamål."
+
+#: includes/class-webinarsysteemoptions.php:32
+msgid "WP WebinarSystem Options"
+msgstr "Inställningar WP WebinarSystems"
+
+#: includes/class-webinarsysteemoptions.php:37
+#: includes/templates/template-metabox-countdownpage.php:4
+#: includes/templates/template-metabox-livepage.php:4
+#: includes/templates/template-metabox-registerpage.php:4
+#: includes/templates/template-metabox-replaypage.php:4
+#: includes/templates/template-metabox-thankyoupage.php:4
+msgid "General"
+msgstr "Generellt"
+
+#: includes/class-webinarsysteemoptions.php:38
+msgid "Emails"
+msgstr "E-post adresser"
+
+#: includes/class-webinarsysteemoptions.php:39
+#: includes/class-webinarsysteemoptions.php:422
+msgid "Mailinglist providers"
+msgstr "Mailinglistleverantörer"
+
+#: includes/class-webinarsysteemoptions.php:40
+#: includes/class-webinarsysteemoptions.php:467
+msgid "Advanced"
+msgstr "Avancerat"
+
+#: includes/class-webinarsysteemoptions.php:41
+msgid "System Status"
+msgstr "Systemstatus"
+
+#: includes/class-webinarsysteemoptions.php:52
+#: includes/class-webinarsysteemoptions.php:55
+msgid "License Key"
+msgstr "Produktnyckel"
+
+#: includes/class-webinarsysteemoptions.php:55
+msgid "Flush data (Recheck)"
+msgstr "Flush data (återkoll)"
+
+#: includes/class-webinarsysteemoptions.php:59
+msgid "Your copy of WebinarSysteem is Active."
+msgstr "Din kopia av Webinarsysteem är AKTIV"
+
+#: includes/class-webinarsysteemoptions.php:62
+msgid ""
+"Your copy of WebinarSysteem is not activated. Plugin will not work as expected. "
+"Please activate your copy."
+msgstr ""
+"Din kopia av WebinarSystem är inte aktiverad. Plugin kommer inte att fungera som "
+"den bör. Var god aktivera."
+
+#: includes/class-webinarsysteemoptions.php:77
+msgid "Email options"
+msgstr "Inställningar e-post"
+
+#: includes/class-webinarsysteemoptions.php:79
+msgid "Reminder day before Webinar"
+msgstr "Påminnelse dagen innan webinariet"
+
+#: includes/class-webinarsysteemoptions.php:80
+msgid "Reminder one hour before Webinar"
+msgstr "Påminnelse en timme innan webinariet"
+
+#: includes/class-webinarsysteemoptions.php:81
+msgid "Reminder Webinar Starting"
+msgstr "Påminnelse om att webinariet startar"
+
+#: includes/class-webinarsysteemoptions.php:82
+msgid "Webinar replay"
+msgstr "Återuppspelning av webinariet"
+
+#: includes/class-webinarsysteemoptions.php:87
+msgid "Email Sender Options"
+msgstr "Inställningar för att skicka e-post"
+
+#: includes/class-webinarsysteemoptions.php:90
+msgid "\"From\" Name"
+msgstr "\"Från\" namn"
+
+#: includes/class-webinarsysteemoptions.php:90
+msgid "Sender name"
+msgstr "Avsändarens namn"
+
+#: includes/class-webinarsysteemoptions.php:93
+msgid "\"From\" Email Address"
+msgstr "\"Från\" e-postadress"
+
+#: includes/class-webinarsysteemoptions.php:93
+msgid "Sender email"
+msgstr "Avsändare e-post"
+
+#: includes/class-webinarsysteemoptions.php:97
+msgid "Email Template"
+msgstr "Mall för e-post"
+
+#: includes/class-webinarsysteemoptions.php:101
+msgid "Header Image"
+msgstr "Rubriksbild"
+
+#: includes/class-webinarsysteemoptions.php:105
+msgid "Upload"
+msgstr "Ladda upp"
+
+#: includes/class-webinarsysteemoptions.php:111
+msgid "Email Footer Text"
+msgstr "E-postens sidfotstext"
+
+#: includes/class-webinarsysteemoptions.php:114
+msgid "Footer Text"
+msgstr "Sidfotstext"
+
+#: includes/class-webinarsysteemoptions.php:119
+msgid "Base color"
+msgstr "Basfärg"
+
+#: includes/class-webinarsysteemoptions.php:135
+msgid "Email Body Background color"
+msgstr "E-postens backgrundsfärg"
+
+#: includes/class-webinarsysteemoptions.php:143
+msgid "Email Body Text color"
+msgstr "E-postens brödtextsfärg"
+
+#: includes/class-webinarsysteemoptions.php:153
+#: includes/class-webinarsysteemoptions.php:226
+#: includes/class-webinarsysteemoptions.php:287
+#: includes/class-webinarsysteemoptions.php:347
+#: includes/class-webinarsysteemoptions.php:407
+msgid "Reset Default Template"
+msgstr "Återställ mallen"
+
+#: includes/class-webinarsysteemoptions.php:162
+msgid "New Registration Options"
+msgstr "Nya registreringsalternativ"
+
+#: includes/class-webinarsysteemoptions.php:165
+msgid "Admin Email Address"
+msgstr "Administratörens e-post adress"
+
+#: includes/class-webinarsysteemoptions.php:165
+msgid "Admin email"
+msgstr "Administratörens e-post"
+
+#: includes/class-webinarsysteemoptions.php:171
+msgid "Reminder day before Webinar "
+msgstr "Påminnelse dagen innan webinariet"
+
+#: includes/class-webinarsysteemoptions.php:175
+#: includes/class-webinarsysteemoptions.php:239
+#: includes/class-webinarsysteemoptions.php:299
+#: includes/class-webinarsysteemoptions.php:359
+msgid "Enable this reminder?"
+msgstr "Möjliggör denna påminnelse?"
+
+#: includes/class-webinarsysteemoptions.php:183
+#: includes/class-webinarsysteemoptions.php:247
+#: includes/class-webinarsysteemoptions.php:307
+#: includes/class-webinarsysteemoptions.php:367
+msgid "Subject"
+msgstr "Ämne"
+
+#: includes/class-webinarsysteemoptions.php:186
+#: includes/class-webinarsysteemoptions.php:250
+#: includes/class-webinarsysteemoptions.php:310
+#: includes/class-webinarsysteemoptions.php:370
+msgid "Email Head"
+msgstr "E-postrubrik"
+
+#: includes/class-webinarsysteemoptions.php:191
+#: includes/class-webinarsysteemoptions.php:255
+#: includes/class-webinarsysteemoptions.php:315
+#: includes/class-webinarsysteemoptions.php:375
+msgid "Available Shortcodes:"
+msgstr "Tillgängliga kortkoder"
+
+#: includes/class-webinarsysteemoptions.php:199
+#: includes/class-webinarsysteemoptions.php:263
+#: includes/class-webinarsysteemoptions.php:323
+#: includes/class-webinarsysteemoptions.php:383
+#: includes/templates/template-metabox-replaypage.php:67
+#: includes/templates/template-metabox-thankyoupage.php:62
+msgid "Content"
+msgstr "Innehåll"
+
+#: includes/class-webinarsysteemoptions.php:216
+#: includes/class-webinarsysteemoptions.php:277
+#: includes/class-webinarsysteemoptions.php:337
+#: includes/class-webinarsysteemoptions.php:397
+msgid "Your email address"
+msgstr "Din e-postadress"
+
+#: includes/class-webinarsysteemoptions.php:217
+#: includes/class-webinarsysteemoptions.php:278
+#: includes/class-webinarsysteemoptions.php:338
+#: includes/class-webinarsysteemoptions.php:398
+msgid "Send Preview"
+msgstr "Skicka förhandsvisning"
+
+#: includes/class-webinarsysteemoptions.php:220
+#: includes/class-webinarsysteemoptions.php:281
+#: includes/class-webinarsysteemoptions.php:341
+#: includes/class-webinarsysteemoptions.php:401
+msgid "Add a Webinar to send a preview email."
+msgstr "Lägg till ett webinarium för att kunna skicka förhandsvisning."
+
+#: includes/class-webinarsysteemoptions.php:234
+msgid "Reminder one hour before Webinar "
+msgstr "Påminnelse en timma innan webinariet"
+
+#: includes/class-webinarsysteemoptions.php:295
+msgid "Reminder when Webinar starts"
+msgstr "Påminnelse när webinariet startar"
+
+#: includes/class-webinarsysteemoptions.php:355
+msgid "Send Webinar Replay Link"
+msgstr "Skicka webinariets återuppspelningslänk."
+
+#: includes/class-webinarsysteemoptions.php:428
+msgid "MailChimp API Key"
+msgstr "Mailchimps API-nyckel"
+
+#: includes/class-webinarsysteemoptions.php:434
+msgid "The API key you have received from MailChimp"
+msgstr "API-nyckeln som du tagit emot från MailChimp"
+
+#: includes/class-webinarsysteemoptions.php:440
+msgid "Enormail API Key"
+msgstr "API-nyckel från Enormail"
+
+#: includes/class-webinarsysteemoptions.php:446
+msgid "The API key you have received from Enormail"
+msgstr "API-nyckeln som du tagit emot från Enormail"
+
+#: includes/class-webinarsysteemoptions.php:475
+#: includes/class-webinarsysteemoptions.php:524
+msgid "Roles & Permissions"
+msgstr "Roller och tillstånd"
+
+#: includes/class-webinarsysteemoptions.php:483
+msgid "Create Webinars"
+msgstr "Skapa webinarier"
+
+#: includes/class-webinarsysteemoptions.php:496
+msgid "Manage Subscribers"
+msgstr "Hantera abonnenter"
+
+#: includes/class-webinarsysteemoptions.php:509
+msgid "Change WebinarSystem Settings"
+msgstr "Ändra på WebinarSystems inställningar"
+
+#: includes/class-webinarsysteemoptions.php:539
+msgid ""
+"Please copy and paste this information in your ticket when contacting support:"
+msgstr ""
+"Var god kopiera och klistra in denna information i din \"support ticket\" när du "
+"kontaktar supporten:"
+
+#: includes/class-webinarsysteemoptions.php:542
+msgid "Copy for Support"
+msgstr "Kopia till supporten"
+
+#: includes/class-webinarsysteemoptions.php:543
+msgid "Copied!"
+msgstr "Koprierad"
+
+#: includes/class-webinarsysteemoptions.php:545
+msgid "Get System Report"
+msgstr "Skaffa dig Systemrapport"
+
+#: includes/class-webinarsysteemoptions.php:551
+msgid "WordPress Environment"
+msgstr "Wordpressmiljön"
+
+#: includes/class-webinarsysteemoptions.php:555
+msgid "Home URL"
+msgstr "Hem URL:et"
+
+#: includes/class-webinarsysteemoptions.php:563
+msgid "Site URL"
+msgstr "Sidans URL"

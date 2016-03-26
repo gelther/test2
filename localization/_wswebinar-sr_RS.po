@@ -1,0 +1,1152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WebinarSysteem v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-29 14:32+0530\n"
+"PO-Revision-Date: 2015-11-13 21:27+0100\n"
+"Last-Translator: admin <simic.ivana.77@gmail.com>\n"
+"Language-Team: \n"
+"Language: sr\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && n"
+"%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;"
+"_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;"
+"_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;"
+"esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c;"
+"comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Loco-Target-Locale: sr_RS\n"
+"X-Poedit-SearchPath-0: includes\n"
+
+#: includes/class-webinarsysteem-questions.php:26
+msgid "WP WebinarSystem Questions"
+msgstr "WP WebinarSystem pitanja"
+
+#: includes/class-webinarsysteem-questions.php:27
+msgid "Select webinar to view questions for active webinars"
+msgstr "Izaberi vebinar da vidiš pitanja za aktivne vebinare"
+
+#: includes/class-webinarsysteem-questions.php:50
+#: includes/class-webinarsysteemattendees.php:60
+#: includes/class-webinarsysteemattendees.php:98
+#: includes/class-webinarsysteemoptions.php:641
+msgid "Name"
+msgstr "Ime"
+
+#: includes/class-webinarsysteem-questions.php:50
+msgid "Question"
+msgstr "Pitanje"
+
+#: includes/class-webinarsysteem-questions.php:50 includes/tmp-post.php:164
+#: includes/tmp-registration.php:91
+msgid "Time"
+msgstr "Vreme"
+
+#: includes/class-webinarsysteem.php:268
+msgid "WP WebinarSystem"
+msgstr "WP WebinarSystem"
+
+#: includes/class-webinarsysteem.php:268
+msgid "WebinarSystem"
+msgstr "WebinarSystem"
+
+#: includes/class-webinarsysteem.php:269 includes/class-webinarsysteem.php:392
+msgid "Webinars"
+msgstr "Vebinari"
+
+#: includes/class-webinarsysteem.php:270
+msgid "New webinar"
+msgstr "Novi vebinar"
+
+#: includes/class-webinarsysteem.php:271
+msgid "Attendee Lists"
+msgstr "Lista učesnika"
+
+#: includes/class-webinarsysteem.php:272
+msgid "Webinar Questions"
+msgstr "Pitanja za vebinar"
+
+#: includes/class-webinarsysteem.php:274
+msgid "Settings"
+msgstr "Podešavanja"
+
+#: includes/class-webinarsysteem.php:275
+msgid "Go Pro"
+msgstr "Go Pro"
+
+#: includes/class-webinarsysteem.php:311 includes/class-webinarsysteem.php:337
+msgid "Questions"
+msgstr "Pitanja"
+
+#: includes/class-webinarsysteem.php:316
+msgid "Duplicate this Webinar"
+msgstr "Dupliraj ovaj vebinar"
+
+#: includes/class-webinarsysteem.php:316
+msgid "Duplicate"
+msgstr "Dupliraj"
+
+#: includes/class-webinarsysteem.php:335
+msgid "Views"
+msgstr "Pregledi"
+
+#: includes/class-webinarsysteem.php:336
+msgid "Registrations"
+msgstr "Registracije"
+
+#: includes/class-webinarsysteem.php:338
+msgid "Status"
+msgstr "Status"
+
+#: includes/class-webinarsysteem.php:393 includes/class-webinarsysteem.php:394
+#: includes/tmp-post.php:161
+msgid "Webinar"
+msgstr "Vebinar"
+
+#: includes/class-webinarsysteem.php:395 includes/class-webinarsysteem.php:396
+msgid "Add New Webinar"
+msgstr "Dodaj novi vebinar"
+
+#: includes/class-webinarsysteem.php:397
+msgid "New Webinar"
+msgstr "Novi vebinar"
+
+#: includes/class-webinarsysteem.php:398
+msgid "Edit Webinar"
+msgstr "Izmeni vebinar"
+
+#: includes/class-webinarsysteem.php:399
+msgid "View Webinar"
+msgstr "Pogledaj vebinar"
+
+#: includes/class-webinarsysteem.php:770 includes/class-webinarsysteem.php:772
+#: includes/class-webinarsysteem.php:776
+#: includes/templates/template-email-attendee-replay.php:17
+#: includes/templates/template-email-attendee1hr.php:21
+#: includes/templates/template-email-attendee24hr.php:21
+#: includes/templates/template-email-reader.php:16
+msgid "Hi"
+msgstr "Zdravo"
+
+#: includes/class-webinarsysteem.php:770 includes/class-webinarsysteem.php:774
+#: includes/templates/template-email-attendee1hr.php:23
+msgid ""
+"The webinar you signed up for starts in one hour. Below you will find the link "
+"to attend the webinar."
+msgstr ""
+"Vebinar za koji si se prijavio počinje za sat vremena. U nastavku se nalazi link "
+"za pristup vebinaru."
+
+#: includes/class-webinarsysteem.php:770 includes/class-webinarsysteem.php:772
+#: includes/templates/template-email-attendee1hr.php:24
+#: includes/templates/template-email-attendee24hr.php:23
+#: includes/templates/template-email-reader.php:18
+msgid "Webinar name:"
+msgstr "Ime vebinara:"
+
+#: includes/class-webinarsysteem.php:770 includes/class-webinarsysteem.php:772
+#: includes/templates/template-email-attendee1hr.php:25
+#: includes/templates/template-email-attendee24hr.php:24
+#: includes/templates/template-email-reader.php:19
+msgid "Date:"
+msgstr "Datum:"
+
+#: includes/class-webinarsysteem.php:770 includes/class-webinarsysteem.php:772
+#: includes/templates/template-email-attendee1hr.php:26
+#: includes/templates/template-email-attendee24hr.php:25
+#: includes/templates/template-email-reader.php:20
+msgid "Time:"
+msgstr "Vreme:"
+
+#: includes/class-webinarsysteem.php:770 includes/class-webinarsysteem.php:772
+#: includes/templates/template-email-attendee1hr.php:28
+#: includes/templates/template-email-attendee24hr.php:27
+#: includes/templates/template-email-reader.php:22
+msgid "See you then!"
+msgstr "Vidimo se!"
+
+#: includes/class-webinarsysteem.php:770 includes/class-webinarsysteem.php:772
+#: includes/class-webinarsysteem.php:774 includes/class-webinarsysteem.php:776
+#: includes/templates/template-email-admin-email.php:9
+#: includes/templates/template-email-attendee-replay.php:21
+#: includes/templates/template-email-attendee-wbstarted.php:21
+#: includes/templates/template-email-attendee1hr.php:29
+#: includes/templates/template-email-attendee24hr.php:28
+#: includes/templates/template-email-reader.php:23
+msgid "Regards"
+msgstr "Pozdrav"
+
+#: includes/class-webinarsysteem.php:772
+#: includes/templates/template-email-attendee24hr.php:22
+msgid ""
+"This is a reminder for your upcoming webinar tomorrow. Below you will find the "
+"details of the webinar."
+msgstr ""
+"Ovo je podsetnik za sutrašnji vebinar. U nastavku pronađi sve dodatne "
+"informacije o vebinaru."
+
+#: includes/class-webinarsysteem.php:774
+#: includes/templates/template-email-attendee-wbstarted.php:16
+msgid "We are going live now"
+msgstr "Idemo uživo!"
+
+#: includes/class-webinarsysteem.php:774 includes/class-webinarsysteem.php:776
+#: includes/templates/template-email-attendee-replay.php:20
+#: includes/templates/template-email-attendee-wbstarted.php:20
+msgid "See you later!"
+msgstr "Vidimo se kasnije!"
+
+#: includes/class-webinarsysteem.php:776
+#: includes/templates/template-email-attendee-replay.php:18
+#: includes/templates/template-email-attendee-wbstarted.php:18
+msgid "Make sure to join the webinar via this link:"
+msgstr "Pridruži se vebinaru klikom na ovaj link:"
+
+#: includes/class-webinarsysteemattendees.php:12
+msgid "WP WebinarSystem Attendees"
+msgstr "WP WebinarSystem učesnici"
+
+#: includes/class-webinarsysteemattendees.php:13
+msgid "Select webinar to view attendees for active webinars"
+msgstr "Izaberi vebinar da pogledaš prijavljene za aktivne vebinare"
+
+#: includes/class-webinarsysteemattendees.php:38
+msgid "Please add webinars to listup."
+msgstr "Dodaj vebinare na listu"
+
+#: includes/class-webinarsysteemattendees.php:61
+#: includes/class-webinarsysteemattendees.php:99
+msgid "E-Mail"
+msgstr "E-mail"
+
+#: includes/class-webinarsysteemattendees.php:62
+#: includes/class-webinarsysteemattendees.php:100
+msgid "Registered Date"
+msgstr "Datum registrovanja"
+
+#: includes/class-webinarsysteemattendees.php:63
+#: includes/class-webinarsysteemattendees.php:101
+msgid "Edit"
+msgstr "Izmeni"
+
+#: includes/class-webinarsysteemattendees.php:82
+msgid "Remove"
+msgstr "Ukloni"
+
+#: includes/class-webinarsysteemattendees.php:92
+msgid "No Attendees :("
+msgstr "Nema prijavljenih :("
+
+#: includes/class-webinarsysteemmessages.php:63
+#: includes/class-webinarsysteemmessages.php:69
+#: includes/class-webinarsysteemoptions.php:58
+msgid "New Registration"
+msgstr "Novo registrovanje"
+
+#: includes/class-webinarsysteemmessages.php:77
+#: includes/class-webinarsysteemmessages.php:110
+msgid "Reminder"
+msgstr "Podsetnik"
+
+#: includes/class-webinarsysteemmessages.php:84
+msgid "You are registered for the webinar!"
+msgstr "Registrovan si za ovaj vebinar!"
+
+#: includes/class-webinarsysteemmessages.php:147
+msgid "We are live in one hour!"
+msgstr "Prati nas uživo za jedan sat!"
+
+#: includes/class-webinarsysteemmessages.php:180
+msgid "We are starting the webinar!"
+msgstr "Vebinar počinje!"
+
+#: includes/class-webinarsysteemmessages.php:213
+msgid "Webinar Replay Link"
+msgstr "Link za ponovno pregledavanje vebinara"
+
+#: includes/class-webinarsysteemmessages.php:274
+msgid "Once a minute"
+msgstr "Jednom u minutu"
+
+#: includes/class-webinarsysteemmetabox.php:22
+msgid "Webinar Settings"
+msgstr "Podešavanja za vebinar"
+
+#: includes/class-webinarsysteemmetabox.php:26
+msgid "Host Names"
+msgstr "Imena domaćina"
+
+#: includes/class-webinarsysteemmetabox.php:27
+msgid "Webinar URL"
+msgstr "URL vebinara"
+
+#: includes/class-webinarsysteemmetabox.php:63
+#: includes/class-webinarsysteemoptions.php:46
+msgid "General Options"
+msgstr "Generalne opcije"
+
+#: includes/class-webinarsysteemmetabox.php:64
+msgid "Registration Page"
+msgstr "Stranica za registrovanje"
+
+#: includes/class-webinarsysteemmetabox.php:65
+msgid "Thank You Page"
+msgstr "\"Hvala\" stranica"
+
+#: includes/class-webinarsysteemmetabox.php:66
+msgid "Countdown Page"
+msgstr "Stranica za odbrojavanje"
+
+#: includes/class-webinarsysteemmetabox.php:67
+msgid "Live Page"
+msgstr "\"Uživo\" stranica"
+
+#: includes/class-webinarsysteemmetabox.php:68
+msgid "Replay Page"
+msgstr "Stranica za ponovno pregledavanje"
+
+#: includes/class-webinarsysteemmetabox.php:388
+msgid "Webinar will be presented by:"
+msgstr "Domaćin vebinara je:"
+
+#: includes/class-webinarsysteemmetabox.php:390
+msgid "Separate each by commas"
+msgstr "Odvoji svaki unos zarezom"
+
+#: includes/class-webinarsysteemmetabox.php:405
+msgid "Host & Description Box"
+msgstr "Mesto za opis događaja i informacije o domaćinu"
+
+#: includes/class-webinarsysteemmetabox.php:409
+#: includes/class-webinarsysteemmetabox.php:482
+#: includes/class-webinarsysteemmetabox.php:499
+#: includes/class-webinarsysteemoptions.php:107
+#: includes/templates/template-metabox-countdownpage.php:22
+#: includes/templates/template-metabox-livepage.php:13
+#: includes/templates/template-metabox-registerpage.php:54
+#: includes/templates/template-metabox-replaypage.php:13
+#: includes/templates/template-metabox-thankyoupage.php:20
+#: includes/templates/template-metabox-thankyoupage.php:125
+#: includes/templates/template-metabox-thankyoupage.php:140
+msgid "Background color"
+msgstr "Boja pozadine"
+
+#: includes/class-webinarsysteemmetabox.php:417
+msgid "Show Host Box"
+msgstr "Prikazati deo o domaćinu"
+
+#: includes/class-webinarsysteemmetabox.php:424
+msgid "Host Title Background color"
+msgstr "Boja pozadine na kojoj će se nalaziti naslov domaćina"
+
+#: includes/class-webinarsysteemmetabox.php:430
+msgid "Host Title Text color"
+msgstr "Boja teksta za naslov domaćina"
+
+#: includes/class-webinarsysteemmetabox.php:436
+msgid "Host Text color"
+msgstr "Boja teksta za sadržaj koji kreira domaćin"
+
+#: includes/class-webinarsysteemmetabox.php:444
+msgid "Show Description Box"
+msgstr "Pokaži opis "
+
+#: includes/class-webinarsysteemmetabox.php:451
+msgid "Description Title Background color"
+msgstr "Boja pozadine za naslov opisa"
+
+#: includes/class-webinarsysteemmetabox.php:457
+msgid "Description Title Text color"
+msgstr "Boja teksta za naslov opisa"
+
+#: includes/class-webinarsysteemmetabox.php:463
+msgid "Description Text color"
+msgstr "Boja teksta za opis"
+
+#: includes/class-webinarsysteemmetabox.php:471
+msgid "Question Box"
+msgstr "Mesto za pitanja"
+
+#: includes/class-webinarsysteemmetabox.php:475
+msgid "Show Question box"
+msgstr "Pokaži mesto za pitanja"
+
+#: includes/class-webinarsysteemmetabox.php:488
+#: includes/class-webinarsysteemmetabox.php:518
+msgid "Title Text color"
+msgstr "Boja naslova teksta"
+
+#: includes/class-webinarsysteemmetabox.php:495
+msgid "Incentive Box"
+msgstr "Mesto za podsticaj"
+
+#: includes/class-webinarsysteemmetabox.php:505
+msgid "Show Incentive Box"
+msgstr "Prikaži mesto za podsticaj"
+
+#: includes/class-webinarsysteemmetabox.php:512
+msgid "Incentive Title"
+msgstr "Naziv dela o podsticaju"
+
+#: includes/class-webinarsysteemmetabox.php:524
+msgid "Incentive box content"
+msgstr "Sadržaj teksta o podsticaju"
+
+#: includes/class-webinarsysteemoptions.php:32
+msgid "WP WebinarSystem Options"
+msgstr "WP WebinarSystem opcije"
+
+#: includes/class-webinarsysteemoptions.php:37
+#: includes/templates/template-metabox-livepage.php:4
+#: includes/templates/template-metabox-registerpage.php:4
+#: includes/templates/template-metabox-replaypage.php:4
+#: includes/templates/template-metabox-thankyoupage.php:4
+msgid "General"
+msgstr "Opšte"
+
+#: includes/class-webinarsysteemoptions.php:38
+msgid "Emails"
+msgstr "Email-ovi"
+
+#: includes/class-webinarsysteemoptions.php:39
+msgid "System Status"
+msgstr "Status sistema"
+
+#: includes/class-webinarsysteemoptions.php:57
+msgid "Email options"
+msgstr "Email opcije"
+
+#: includes/class-webinarsysteemoptions.php:59
+msgid "Reminder day before Webinar"
+msgstr "Podsetnik dan pre vebinara"
+
+#: includes/class-webinarsysteemoptions.php:60
+msgid "Reminder one hour before Webinar"
+msgstr "Podsetnik jedan sat pre vebinara"
+
+#: includes/class-webinarsysteemoptions.php:61
+msgid "Reminder Webinar Starting"
+msgstr "Podsetnik za početak vebinara"
+
+#: includes/class-webinarsysteemoptions.php:62
+msgid "Webinar replay"
+msgstr "Ponovno pregledavanje vebinara"
+
+#: includes/class-webinarsysteemoptions.php:67
+msgid "Email Sender Options"
+msgstr "Opcije za slanje mail-ova"
+
+#: includes/class-webinarsysteemoptions.php:70
+msgid "\"From\" Name"
+msgstr "Ime pošaljioca"
+
+#: includes/class-webinarsysteemoptions.php:70
+msgid "Sender name"
+msgstr "Ime pošaljioca"
+
+#: includes/class-webinarsysteemoptions.php:73
+msgid "\"From\" Email Address"
+msgstr "Email adresa pošaljioca"
+
+#: includes/class-webinarsysteemoptions.php:73
+msgid "Sender email"
+msgstr "Email pošaljioca"
+
+#: includes/class-webinarsysteemoptions.php:77
+msgid "Email Template"
+msgstr "Izgled mail-a"
+
+#: includes/class-webinarsysteemoptions.php:81
+msgid "Header Image"
+msgstr "Slika zaglavlja"
+
+#: includes/class-webinarsysteemoptions.php:85
+msgid "Upload"
+msgstr "Postavi"
+
+#: includes/class-webinarsysteemoptions.php:91
+msgid "Email Footer Text"
+msgstr "Email tekst podnožja"
+
+#: includes/class-webinarsysteemoptions.php:94
+msgid "Footer Text"
+msgstr "Tekst podnožja"
+
+#: includes/class-webinarsysteemoptions.php:99
+msgid "Base color"
+msgstr "Osnovna boja"
+
+#: includes/class-webinarsysteemoptions.php:115
+msgid "Email Body Background color"
+msgstr "Boja pozadine tela email-a"
+
+#: includes/class-webinarsysteemoptions.php:123
+msgid "Email Body Text color"
+msgstr "Boja teksta email-a"
+
+#: includes/class-webinarsysteemoptions.php:133
+#: includes/class-webinarsysteemoptions.php:206
+#: includes/class-webinarsysteemoptions.php:267
+#: includes/class-webinarsysteemoptions.php:327
+#: includes/class-webinarsysteemoptions.php:387
+msgid "Reset Default Template"
+msgstr "Poništi standardni šablon"
+
+#: includes/class-webinarsysteemoptions.php:142
+msgid "New Registration Options"
+msgstr "Opcije za novo registrovanje"
+
+#: includes/class-webinarsysteemoptions.php:145
+msgid "Admin Email Address"
+msgstr "Email adresa administratora"
+
+#: includes/class-webinarsysteemoptions.php:145
+msgid "Admin email"
+msgstr "Email administratora"
+
+#: includes/class-webinarsysteemoptions.php:151
+msgid "Reminder day before Webinar "
+msgstr "Podsetnik jedan dan pre vebinara"
+
+#: includes/class-webinarsysteemoptions.php:155
+#: includes/class-webinarsysteemoptions.php:219
+#: includes/class-webinarsysteemoptions.php:279
+#: includes/class-webinarsysteemoptions.php:339
+msgid "Enable this reminder?"
+msgstr "Omogući ovaj podsetnik?"
+
+#: includes/class-webinarsysteemoptions.php:163
+#: includes/class-webinarsysteemoptions.php:227
+#: includes/class-webinarsysteemoptions.php:287
+#: includes/class-webinarsysteemoptions.php:347
+msgid "Subject"
+msgstr "Tema"
+
+#: includes/class-webinarsysteemoptions.php:166
+#: includes/class-webinarsysteemoptions.php:230
+#: includes/class-webinarsysteemoptions.php:290
+#: includes/class-webinarsysteemoptions.php:350
+msgid "Email Head"
+msgstr "Naslov email-a"
+
+#: includes/class-webinarsysteemoptions.php:171
+#: includes/class-webinarsysteemoptions.php:235
+#: includes/class-webinarsysteemoptions.php:295
+#: includes/class-webinarsysteemoptions.php:355
+msgid "Available Shortcodes:"
+msgstr "Omogućeni kodovi (shortcodes):"
+
+#: includes/class-webinarsysteemoptions.php:179
+#: includes/class-webinarsysteemoptions.php:243
+#: includes/class-webinarsysteemoptions.php:303
+#: includes/class-webinarsysteemoptions.php:363
+#: includes/templates/template-metabox-thankyoupage.php:52
+msgid "Content"
+msgstr "Sadržaj"
+
+#: includes/class-webinarsysteemoptions.php:196
+#: includes/class-webinarsysteemoptions.php:257
+#: includes/class-webinarsysteemoptions.php:317
+#: includes/class-webinarsysteemoptions.php:377
+msgid "Your email address"
+msgstr "Tvoja email adresa"
+
+#: includes/class-webinarsysteemoptions.php:197
+#: includes/class-webinarsysteemoptions.php:258
+#: includes/class-webinarsysteemoptions.php:318
+#: includes/class-webinarsysteemoptions.php:378
+msgid "Send Preview"
+msgstr "Pošalji prikaz"
+
+#: includes/class-webinarsysteemoptions.php:200
+#: includes/class-webinarsysteemoptions.php:261
+#: includes/class-webinarsysteemoptions.php:321
+#: includes/class-webinarsysteemoptions.php:381
+msgid "Add a Webinar to send a preview email."
+msgstr "Dodaj vebinar da pošalješ pregled email-om"
+
+#: includes/class-webinarsysteemoptions.php:214
+msgid "Reminder one hour before Webinar "
+msgstr "Podsetnik jedan sat pre vebinara"
+
+#: includes/class-webinarsysteemoptions.php:275
+msgid "Reminder when Webinar starts"
+msgstr "Podsetnik kada vebinar počne"
+
+#: includes/class-webinarsysteemoptions.php:335
+msgid "Send Webinar Replay Link"
+msgstr "Pošalji link za ponovno pregledavanje vebinara"
+
+#: includes/class-webinarsysteemoptions.php:403
+msgid ""
+"Please copy and paste this information in your ticket when contacting support:"
+msgstr "Molim te kopiraj ovu informaciju i dodaj je kada kontaktiraš podršku:"
+
+#: includes/class-webinarsysteemoptions.php:406
+msgid "Copy for Support"
+msgstr "Kopija za podršku"
+
+#: includes/class-webinarsysteemoptions.php:407
+msgid "Copied!"
+msgstr "Kopirano!"
+
+#: includes/class-webinarsysteemoptions.php:409
+msgid "Get System Report"
+msgstr "Preuzmi izveštaj o sistemu"
+
+#: includes/class-webinarsysteemoptions.php:415
+msgid "WordPress Environment"
+msgstr "WordPress sredina"
+
+#: includes/class-webinarsysteemoptions.php:419
+msgid "Home URL"
+msgstr "Osnovni URL"
+
+#: includes/class-webinarsysteemoptions.php:427
+msgid "Site URL"
+msgstr "URL sajta"
+
+#: includes/class-webinarsysteemoptions.php:435
+msgid "WP Version"
+msgstr "WP verzija"
+
+#: includes/class-webinarsysteemoptions.php:442
+msgid "WP Multisite"
+msgstr "WP multisajt"
+
+#: includes/class-webinarsysteemoptions.php:446
+msgid "WP Debug mode"
+msgstr "WP debug režim rada "
+
+#: includes/class-webinarsysteemoptions.php:450
+msgid "Language"
+msgstr "Jezik"
+
+#: includes/class-webinarsysteemoptions.php:458
+msgid "Server Environment"
+msgstr "Server "
+
+#: includes/class-webinarsysteemoptions.php:462
+msgid "Server Info"
+msgstr "Informacije o serveru"
+
+#: includes/class-webinarsysteemoptions.php:470
+msgid "PHP Version"
+msgstr "PHP verzija"
+
+#: includes/class-webinarsysteemoptions.php:479
+msgid "Couldn't determine PHP version because phpversion() doesn't exist."
+msgstr "Nisam mogao da odredim PP verziju jer PHP verzija() ne postoji. "
+
+#: includes/class-webinarsysteemoptions.php:487
+msgid "PHP Post Max Size"
+msgstr "Maksimalna veličina PHP posta "
+
+#: includes/class-webinarsysteemoptions.php:495
+msgid "PHP Time Limit"
+msgstr "PHP vremensko ograničenje"
+
+#: includes/class-webinarsysteemoptions.php:503
+msgid "PHP Max Input Vars"
+msgstr "PHP maksimalni input vars-a"
+
+#: includes/class-webinarsysteemoptions.php:511
+msgid "SUHOSIN Installed"
+msgstr "SUHOSN instaliran"
+
+#: includes/class-webinarsysteemoptions.php:519
+msgid "MySQL Version"
+msgstr "MySQL verzija"
+
+#: includes/class-webinarsysteemoptions.php:527
+msgid "Max Upload Size"
+msgstr "Maksimalna veličina za postavljanje"
+
+#: includes/class-webinarsysteemoptions.php:535
+msgid "Default Timezone"
+msgstr "Podrazumevana vremenska zona"
+
+#: includes/class-webinarsysteemoptions.php:596
+msgid "Server Locale"
+msgstr "Locale server"
+
+#: includes/class-webinarsysteemoptions.php:603
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/class-webinarsysteemoptions.php:612
+msgid "Active Plugins("
+msgstr "Aktivni dodaci (plugins)("
+
+#: includes/class-webinarsysteemoptions.php:629
+msgid "by "
+msgstr "Od strane"
+
+#: includes/class-webinarsysteemoptions.php:637
+msgid "Theme"
+msgstr "Tema"
+
+#: includes/class-webinarsysteemoptions.php:645
+msgid "Version"
+msgstr "Verzija"
+
+#: includes/class-webinarsysteemoptions.php:649
+msgid "Author URL"
+msgstr "URL autora"
+
+#: includes/tmp-closed.php:15 includes/tmp-countdown.php:29
+#: includes/tmp-live.php:16 includes/tmp-post.php:58
+msgid "Powered by WP WebinarSystem"
+msgstr "Omogućio WP WebinarSystem"
+
+#: includes/tmp-closed.php:51
+msgid "Unfortunately, this webinar is closed."
+msgstr "Na žalost, ovaj vebinar je završen."
+
+#: includes/tmp-closed.php:54
+msgid "Click here"
+msgstr "Klikni ovde"
+
+#: includes/tmp-closed.php:54
+msgid "to go to our homepage."
+msgstr "idi na našu glavnu stranicu."
+
+#: includes/tmp-countdown.php:60
+msgid "will begin in"
+msgstr "počeće u"
+
+#: includes/tmp-countdown.php:61
+msgid "will begin shortly"
+msgstr "počeće uskoro"
+
+#: includes/tmp-countdown.php:66
+msgid "will start"
+msgstr "počeće"
+
+#: includes/tmp-countdown.php:67
+msgid "on"
+msgstr "na"
+
+#: includes/tmp-countdown.php:68
+msgid "at"
+msgstr "u"
+
+#: includes/tmp-countdown.php:72
+msgid "Please come back at this time. Thank you for your patience"
+msgstr "Molim te vrati se u ovo vreme. Hvala na strpljenju."
+
+#: includes/tmp-countdown.php:83
+msgid ""
+"Just a second, we are starting the broadcast. This page will refresh "
+"automatically..."
+msgstr "Uskoro počinjemo sa emitovanjem. Ova stranica će se automtski ažurirati..."
+
+#: includes/tmp-live.php:86
+msgid "Information"
+msgstr "Informacije"
+
+#: includes/tmp-live.php:98
+msgid "Ask your question!"
+msgstr "Postavi pitanje!"
+
+#: includes/tmp-live.php:102
+msgid "Your name"
+msgstr "Tvoje ime"
+
+#: includes/tmp-live.php:105
+msgid "Your email"
+msgstr "Tvoj email"
+
+#: includes/tmp-live.php:108
+msgid "Type your question here.."
+msgstr "Otkucaj pitanje ovde.."
+
+#: includes/tmp-live.php:110
+msgid "Ask Question!"
+msgstr "Postavi pitanje!"
+
+#: includes/tmp-live.php:114
+msgid "My Questions"
+msgstr "Moja pitanja"
+
+#: includes/tmp-live.php:142
+msgid ""
+"Something is wrong with your Add Questions form. Please re-check all fields are "
+"filled correctly"
+msgstr "Nešto nije u redu. Molim te proveri da li su sva polja pravilno popunjena"
+
+#: includes/tmp-live.php:150
+msgid "Please wait.."
+msgstr "Sačekaj..."
+
+#: includes/tmp-post.php:138
+msgid "Here is the webinar URL..."
+msgstr "Ovo je URL vebinara..."
+
+#: includes/tmp-post.php:144
+msgid "Save and bookmark this URL so you can get access the live webinar replay..."
+msgstr "Sačuvaj ovaj URL da bi mogao da pristupiš reprizi vebinara..."
+
+#: includes/tmp-post.php:154
+msgid "Your Webinar Ticket"
+msgstr "Tvoja vebinar karta"
+
+#: includes/tmp-post.php:155
+msgid "The Webinar Event Information..."
+msgstr "Informacije o vebinar događaju..."
+
+#: includes/tmp-post.php:162
+msgid "Host"
+msgstr "Domaćin"
+
+#: includes/tmp-post.php:163 includes/tmp-registration.php:90
+#: includes/templates/template-metabox-generalpage.php:22
+msgid "Date"
+msgstr "Datum"
+
+#: includes/tmp-post.php:178
+msgid "Webinar Is In Progress..."
+msgstr "Vebinar je u toku..."
+
+#: includes/tmp-post.php:181
+#: includes/templates/template-email-attendee-replay.php:19
+#: includes/templates/template-email-attendee-wbstarted.php:19
+#: includes/templates/template-email-attendee1hr.php:27
+#: includes/templates/template-email-attendee24hr.php:26
+#: includes/templates/template-email-reader.php:21
+msgid "Go to Webinar"
+msgstr "Idi na vebinar"
+
+#: includes/tmp-post.php:184
+msgid "View Webinar Replay"
+msgstr "Ponovo prikaži vebinar"
+
+#: includes/tmp-post.php:211
+msgid "Add To Your Calendar"
+msgstr "Dodaj u svoj kalendar"
+
+#: includes/tmp-post.php:212
+msgid "Remind Yourself Of The Event"
+msgstr "Podsetnik za događaj"
+
+#: includes/tmp-post.php:216
+msgid "Google Calendar"
+msgstr "Google kalendar"
+
+#: includes/tmp-post.php:218
+msgid "iCal / Outlook"
+msgstr "iCal / Outlook"
+
+#: includes/tmp-registration.php:2
+msgid "No script kiddies please!"
+msgstr "Script kiddies nisu dozvoljeni!"
+
+#: includes/tmp-registration.php:58
+msgid "Powered by WebinarSysteem"
+msgstr "Omogućio WP Webinar System"
+
+#: includes/tmp-registration.php:127
+msgid "Your Name"
+msgstr "Ime"
+
+#: includes/tmp-registration.php:131
+msgid "Your Email Address"
+msgstr "Tvoja email adresa"
+
+#: includes/tmp-registration.php:133
+msgid "Please enter your email."
+msgstr "Tvoj mail."
+
+#: includes/tmp-registration.php:137
+msgid "And, Sign-in"
+msgstr "i, prijavi se"
+
+#: includes/tmp-registration.php:140
+msgid "Of course we will handle your data safely."
+msgstr "Mi se, naravno, brinemo o sigurnosti tvojih podataka."
+
+#: includes/templates/template-email-admin-email.php:7
+msgid "Howdy"
+msgstr "Kako si?"
+
+#: includes/templates/template-email-admin-email.php:8
+msgid "just signed up for your webinar"
+msgstr "upravo sam se prijavio za tvoj vebinar"
+
+#: includes/templates/template-email-reader.php:17
+msgid ""
+"Thank you for your registration for the webinar. Below you will find the details "
+"of the webinar."
+msgstr "Hvala što si se registrovao. U nastavku se nalaze informacije o vebinaru."
+
+#: includes/templates/template-email-reader.php:20
+msgid "hrs"
+msgstr "sati"
+
+#: includes/templates/template-metabox-countdownpage.php:1
+#: includes/templates/template-metabox-livepage.php:1
+#: includes/templates/template-metabox-registerpage.php:1
+#: includes/templates/template-metabox-replaypage.php:1
+#: includes/templates/template-metabox-thankyoupage.php:1
+msgid "Preview Page"
+msgstr "Stranica za pregled"
+
+#: includes/templates/template-metabox-countdownpage.php:4
+#: includes/templates/template-metabox-livepage.php:7
+#: includes/templates/template-metabox-replaypage.php:7
+#: includes/templates/template-metabox-thankyoupage.php:14
+msgid "Title color"
+msgstr "Boja naslova"
+
+#: includes/templates/template-metabox-countdownpage.php:10
+msgid "Tagline color"
+msgstr "Boja tagline-a"
+
+#: includes/templates/template-metabox-countdownpage.php:16
+msgid "Description color"
+msgstr "Boja za tekst za opis"
+
+#: includes/templates/template-metabox-countdownpage.php:28
+#: includes/templates/template-metabox-livepage.php:19
+#: includes/templates/template-metabox-replaypage.php:19
+#: includes/templates/template-metabox-thankyoupage.php:26
+msgid "Background image"
+msgstr "Slika za pozadinu"
+
+#: includes/templates/template-metabox-countdownpage.php:30
+msgid "Countdown Page Background Image"
+msgstr "Slika za pozadinu stranice za odbrojavanje"
+
+#: includes/templates/template-metabox-countdownpage.php:30
+#: includes/templates/template-metabox-livepage.php:21
+#: includes/templates/template-metabox-livepage.php:41
+#: includes/templates/template-metabox-registerpage.php:15
+#: includes/templates/template-metabox-registerpage.php:31
+#: includes/templates/template-metabox-replaypage.php:21
+#: includes/templates/template-metabox-replaypage.php:47
+#: includes/templates/template-metabox-thankyoupage.php:28
+#: includes/templates/template-metabox-thankyoupage.php:45
+msgid "Upload Image"
+msgstr "Postavi sliku"
+
+#: includes/templates/template-metabox-countdownpage.php:35
+msgid "Show countdown timer"
+msgstr "Prikaži brojač za odbrojavanje"
+
+#: includes/templates/template-metabox-generalpage.php:21
+msgid "Webinar starts at"
+msgstr "Vebinar počinje u"
+
+#: includes/templates/template-metabox-generalpage.php:61
+msgid "Disable registration"
+msgstr "Onemogući registrovanje"
+
+#: includes/templates/template-metabox-livepage.php:21
+#: includes/templates/template-metabox-thankyoupage.php:28
+msgid "Thankyou Page Background Image"
+msgstr "Slika za pozadinu \"hvala\" stranice"
+
+#: includes/templates/template-metabox-livepage.php:29
+#: includes/templates/template-metabox-replaypage.php:35
+msgid "Webinar type"
+msgstr "Tip vebinara"
+
+#: includes/templates/template-metabox-livepage.php:33
+#: includes/templates/template-metabox-registerpage.php:24
+#: includes/templates/template-metabox-replaypage.php:39
+#: includes/templates/template-metabox-thankyoupage.php:37
+msgid "Image"
+msgstr "Slika"
+
+#: includes/templates/template-metabox-livepage.php:38
+#: includes/templates/template-metabox-registerpage.php:29
+#: includes/templates/template-metabox-replaypage.php:44
+#: includes/templates/template-metabox-thankyoupage.php:42
+msgid "Video or Image URL"
+msgstr "URL videa ili slike"
+
+#: includes/templates/template-metabox-livepage.php:41
+#: includes/templates/template-metabox-registerpage.php:31
+#: includes/templates/template-metabox-replaypage.php:47
+msgid "Registration Page Video Image"
+msgstr "Video za stranicu za registrovanje"
+
+#: includes/templates/template-metabox-livepage.php:43
+#: includes/templates/template-metabox-replaypage.php:51
+#: includes/templates/template-metabox-thankyoupage.php:47
+msgid "Youtube Video URL (Eg: https://www.youtube.com/watch?v=3TkgTEfx9XM)"
+msgstr "URL Youtube videa (na primer: https://www.youtube.com/watch?v=3TkgTEfx9XM)"
+
+#: includes/templates/template-metabox-livepage.php:44
+#: includes/templates/template-metabox-replaypage.php:52
+#: includes/templates/template-metabox-thankyoupage.php:48
+msgid "Image URL (Eg: https://example.com/images/the_image.jpg)"
+msgstr "URL slike (na primer: https://example.com/images/the_image.jpg)"
+
+#: includes/templates/template-metabox-livepage.php:48
+msgid "Video autoplay"
+msgstr "Samostalno puštanje videa"
+
+#: includes/templates/template-metabox-registerpage.php:7
+msgid "Page Background color"
+msgstr "Boja za pozadinu stranice"
+
+#: includes/templates/template-metabox-registerpage.php:13
+msgid "Page Background image"
+msgstr "Slika za pozadinu stranice"
+
+#: includes/templates/template-metabox-registerpage.php:15
+msgid "Registration Page Background Image"
+msgstr "Slika pozadine za stranicu za registrovanje"
+
+#: includes/templates/template-metabox-registerpage.php:20
+#: includes/templates/template-metabox-thankyoupage.php:33
+msgid "Content type"
+msgstr "Vrsta sadržaja"
+
+#: includes/templates/template-metabox-registerpage.php:33
+msgid "Provide an image url or a Youtube Video ID"
+msgstr "URL slike ili Youtube Video ID"
+
+#: includes/templates/template-metabox-registerpage.php:40
+msgid "Title Color"
+msgstr "Boja naslova"
+
+#: includes/templates/template-metabox-registerpage.php:45
+msgid "Date/Time Color"
+msgstr "Boja za deo Datum/vreme "
+
+#: includes/templates/template-metabox-registerpage.php:51
+msgid "Registration Form"
+msgstr "Forma za registraciju"
+
+#: includes/templates/template-metabox-registerpage.php:59
+#: includes/templates/template-metabox-thankyoupage.php:120
+#: includes/templates/template-metabox-thankyoupage.php:134
+msgid "Border color"
+msgstr "Boja okvira"
+
+#: includes/templates/template-metabox-registerpage.php:65
+msgid "Font color"
+msgstr "Boja teksta"
+
+#: includes/templates/template-metabox-registerpage.php:71
+msgid "Title"
+msgstr "Naslov"
+
+#: includes/templates/template-metabox-registerpage.php:77
+msgid "Text"
+msgstr "Tekst"
+
+#: includes/templates/template-metabox-registerpage.php:83
+#: includes/templates/template-metabox-thankyoupage.php:157
+msgid "Button Background color"
+msgstr "Boja za pozadinu dugmeta"
+
+#: includes/templates/template-metabox-registerpage.php:89
+#: includes/templates/template-metabox-thankyoupage.php:163
+msgid "Button Border color"
+msgstr "Boja za okvir dugmeta"
+
+#: includes/templates/template-metabox-registerpage.php:95
+#: includes/templates/template-metabox-thankyoupage.php:111
+#: includes/templates/template-metabox-thankyoupage.php:151
+msgid "Button Text color"
+msgstr "Boja za tekst dugmeta"
+
+#: includes/templates/template-metabox-registerpage.php:101
+msgid "CTA Button Text"
+msgstr "CTA tekst za dugme"
+
+#: includes/templates/template-metabox-registerpage.php:108
+msgid "Description"
+msgstr "Opis"
+
+#: includes/templates/template-metabox-registerpage.php:111
+msgid "Description text color"
+msgstr "Boja za tekst opisa"
+
+#: includes/templates/template-metabox-registerpage.php:116
+msgid "Description background color"
+msgstr "Boja za pozadinu opisa"
+
+#: includes/templates/template-metabox-registerpage.php:121
+msgid "Description border color"
+msgstr "Boja za okvir opisa"
+
+#: includes/templates/template-metabox-replaypage.php:21
+msgid "Replay Page Background Image"
+msgstr "Slika za pozadinu stranice za ponovno pregledavanje"
+
+#: includes/templates/template-metabox-replaypage.php:28
+msgid "Replay available?"
+msgstr "Da li je ponovno pregledavanje dostupno?"
+
+#: includes/templates/template-metabox-thankyoupage.php:7
+msgid "Title text"
+msgstr "Tekst za naslov"
+
+#: includes/templates/template-metabox-thankyoupage.php:9
+msgid "Yeah! You Are Registered For The Webinar!"
+msgstr "Da! Registrovao si se za vebinar!"
+
+#: includes/templates/template-metabox-thankyoupage.php:45
+msgid "Thanking Page Video Image"
+msgstr "Video za \"hvala\" stranicu"
+
+#: includes/templates/template-metabox-thankyoupage.php:55
+msgid "Link above Text Color"
+msgstr "Link iznad boje teksta"
+
+#: includes/templates/template-metabox-thankyoupage.php:60
+msgid "Link below Text Color"
+msgstr "Link ispod boje teksta"
+
+#: includes/templates/template-metabox-thankyoupage.php:66
+msgid "Ticket"
+msgstr "Karta"
+
+#: includes/templates/template-metabox-thankyoupage.php:69
+msgid "Border color-1"
+msgstr "Boja okvira-1"
+
+#: includes/templates/template-metabox-thankyoupage.php:75
+msgid "Border color-2"
+msgstr "Boja okvira-2"
+
+#: includes/templates/template-metabox-thankyoupage.php:81
+msgid "Body Text color"
+msgstr "Boja za tekst"
+
+#: includes/templates/template-metabox-thankyoupage.php:87
+msgid "Body Background color"
+msgstr "Boja za pozadinu"
+
+#: includes/templates/template-metabox-thankyoupage.php:93
+msgid "Header Background color"
+msgstr "Boja pozadine za zaglavlje"
+
+#: includes/templates/template-metabox-thankyoupage.php:99
+msgid "Header Text color"
+msgstr "Boja teksta za zaglavlje"
+
+#: includes/templates/template-metabox-thankyoupage.php:105
+msgid "Button color"
+msgstr "Boja dugmeta"
+
+#: includes/templates/template-metabox-thankyoupage.php:117
+msgid "Social Sharing"
+msgstr "Deljenje na društvenim mrežama"
+
+#: includes/templates/template-metabox-thankyoupage.php:131
+msgid "Calendar"
+msgstr "Kalendar"
+
+#: includes/templates/template-metabox-thankyoupage.php:146
+msgid "Text color"
+msgstr "Boja teksta"
