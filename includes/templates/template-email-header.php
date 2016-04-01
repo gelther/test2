@@ -2,7 +2,8 @@
 
 class WsWebinarTemplate_EmailHeader {
 
-    public static function get($logoURI, $title, $content, $basecolor, $bodybgcolor, $emailbodybgcolor , $bodyTXTcolor) {
+    public static function get( $logoURI, $title, $content, $basecolor, $bodybgcolor, $emailbodybgcolor, $bodyTXTcolor ) {
+
         ?>
         <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
         <html xmlns="http://www.w3.org/1999/xhtml">
@@ -21,9 +22,11 @@ class WsWebinarTemplate_EmailHeader {
                                     <td><img style="float: left; margin: 15px; max-height: 45px;" src="<?php echo $logoURI; ?>" /><h1 style="color:#333;"><?php echo $title; ?></h1></td>
                                 </tr>
                                 <tr style="background-color:<?php echo $emailbodybgcolor; ?>; color:<?php echo $bodyTXTcolor; ?>; padding: 10px;">
-                                    <td colspan="2" style="padding: 20px;">             
+                                    <td colspan="2" style="padding: 20px;">
                                         <?php
                                         echo $content;
+
                                     }
+
 
                                 }
