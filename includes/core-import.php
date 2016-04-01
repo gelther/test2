@@ -1,9 +1,7 @@
 <?php
 
-/*
- * 
+/**
  * Importing class files
- * 
  */
 
 require 'class-webinarsysteem.php';
@@ -19,10 +17,8 @@ require 'class-webinarsysteem-ajaxpreviewemails.php';
 require 'class-webinarsysteem-ajax.php';
 require 'class-webinarsysteem-promotional-notices.php';
 
-/*
- * 
+/**
  * Importing template files
- * 
  */
 
 require 'templates/template-email-header.php';
@@ -34,8 +30,6 @@ require 'templates/template-email-attendee-wbstarted.php';
 require 'templates/template-email-attendee-replay.php';
 require 'templates/template-email-admin-email.php';
 
-/*
- * 
+/**
  * Importing library files
- * 
  */
